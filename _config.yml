@@ -5,8 +5,7 @@ locale: en_US
 description: "I'm an independent Ruby on Rails consultant based in Girona, Spain, offering development, consultancy and mentoring services as part of the awesome ProRuby team.<br /><br /><small>You can <a href='mailto:jaimeiniesta@gmail.com'>hire me</a> for development, consultancy, code reviews and mentoring services.</small>"
 logo: avatar_jaime_oxido_closeup.jpg
 search: true
-url: http://localhost:4000
-
+url: http://jaimeiniesta.com
 
 # Jekyll configuration
 
