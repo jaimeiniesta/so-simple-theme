@@ -1,16 +1,16 @@
 # Site wide configuration
 
-title: Site Title
+title: Jaime Iniesta
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: "I'm an independent Ruby on Rails consultant based in Girona, Spain, offering development, consultancy and mentoring services as part of the awesome ProRuby team.<br /><br /><small>You can <a href='mailto:jaimeiniesta@gmail.com'>hire me</a> for development, consultancy, code reviews and mentoring services.</small>"
+logo: avatar_jaime_oxido_closeup.jpg
 search: true
-url: 
+url: http://localhost:4000
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /articles/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -32,22 +32,22 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  name: Jaime Iniesta
+  avatar: avatar_jaime_oxido_closeup.jpg
+  email: jaimeiniesta@gmail.com
+  disqus-shortname: jaimeiniesta
+  twitter: jaimeiniesta
+  facebook: jaime.iniesta.7
+  github: jaimeiniesta
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
+  linkedin: jaimeiniesta
+  instagram: jaimeiniesta
+  flickr: jaimeiniesta
   tumblr: #username
   google:
-    plus: #username
-    analytics:
+    plus: jaimeiniesta
+    analytics: UA-415840-3
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:

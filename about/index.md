@@ -1,26 +1,27 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About me
+excerpt: "I’m a remote Ruby on Rails consultant based in Girona, Spain, offering development, consultancy and mentoring services as part of the awesome ProRuby team."
+modified: 2014-11-01T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: oxido.jpg
+  credit: Almudena García
+  creditlink: http://murtra.net/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+**I'm a remote Ruby on Rails consultant based in Girona, Spain, offering development, consultancy and mentoring services as part of the awesome [ProRuby](http://prorubyteam.com) team.**
 
-## So Simple Theme is all about:
+**You can contact me at [jaimeiniesta@gmail.com](mailto:jaimeiniesta@gmail.com).**
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+I work with Rails since 2005. I'm a co-founder of the Spanish Ruby Users Group, member of Spain.rb, and organizer of Conferencia Rails and EuRuKo.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+I'm a [Ruby on Rails contributor](http://contributors.rubyonrails.org/contributors/jaime-iniesta/commits) and an [RbMU](http://mendicantuniversity.org/) alumnus.
 
-[^1]: Example: *domain.com/category-name/post-title*
+I'm the creator of [Site Validator](https://sitevalidator.com), a site-wide markup validation tool.
+
+* My hacking activity at [GitHub](https://github.com/jaimeiniesta)
+* Bits of my life at [Twitter](http://twitter.com/jaimeiniesta)
+* Professional trajectory at [LinkedIn](https://www.linkedin.com/in/jaimeiniesta)
+* Music I like at [Last.fm](http://www.lastfm.com/user/jaimeiniesta)
+* Photos I take and host at [Flickr](https://www.flickr.com/photos/jaimeiniesta)
+* My [Delicious](https://delicious.com/jaimeiniesta) bookmarks
